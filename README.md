@@ -1,4 +1,4 @@
-# StormRage
+# StormRage 🌪️
 
 ### TCP SYN Dos Script
 With the source port, target port and target ip parameters, we specify the output port of our device and the input port of the target device. 
