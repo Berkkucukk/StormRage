@@ -9,7 +9,7 @@ The higher you set the Thread, the higher your CPU usage and attack power.
 python3 storm.py
 ```
 <p align="center">
-  <img src = "https://github.com/Berkkucukk/WTF-Is-My-Vuln/blob/main/1.png?raw=true" width=1200>
+  <img src = "https://github.com/Berkkucukk/StormRage/blob/main/Screenshot_20230712_195424.png" width=1200>
 </p>
 
 
