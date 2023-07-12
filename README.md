@@ -1,27 +1,19 @@
 # StormRage
 
-### Vulnerability scanning automation
-
-- It is sufficient to start the program without parameters
-- Detects all devices on the network
-- It starts collecting information about the devices it detects
-- List open ports and running services on these devices
-- The employee checks whether there are any weaknesses in these services 
-and notifies the user
+### TCP SYN Dos Script
+With the source port, target port and target ip parameters, we specify the output port of our device and the input port of the target device. 
+The higher you set the Thread, the higher your CPU usage and attack power.
 
 ### Usage
 ```sh
-python3 scan-vulns.py
+python3 storm.py
 ```
 <p align="center">
   <img src = "https://github.com/Berkkucukk/WTF-Is-My-Vuln/blob/main/1.png?raw=true" width=1200>
 </p>
-<p align="center">
-  <img src = "https://github.com/Berkkucukk/WTF-Is-My-Vuln/blob/main/2.png?raw=true" width=1200>
-</p>
 
-#### Please be patient. The scan takes between 5 and 20 minutes. This time 
-varies depending on the number of devices connected to the network.
+
+#### Do not use for illegal purposes. It was written to test the server you set up.
 
  Website: <https://berkkucukk.me>
 
